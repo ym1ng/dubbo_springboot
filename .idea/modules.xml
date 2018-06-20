@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Common/SpringBoot_Dubbo_Common.iml" filepath="$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Common/SpringBoot_Dubbo_Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Consumer/SpringBoot_Dubbo_Consumer.iml" filepath="$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Consumer/SpringBoot_Dubbo_Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Dubbo_Demo.iml" filepath="$PROJECT_DIR$/SpringBoot_Dubbo_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Provider/SpringBoot_Dubbo_Provider.iml" filepath="$PROJECT_DIR$/../SpringBoot_Dubbo_Demo/SpringBoot_Dubbo_Provider/SpringBoot_Dubbo_Provider.iml" />
+    </modules>
+  </component>
+</project>
